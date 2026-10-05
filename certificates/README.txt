@@ -1,0 +1,1 @@
+Add certificate photos here as 1.jpg, 2.jpg, 3.jpg, and so on. The Vue gallery checks numbered JPG files automatically.
